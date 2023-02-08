@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAILSFACTORY</title>
+    <link rel="StyleSheet" href="style.css">
+    <script src="https://kit.fontawesome.com/c4254e24a8.js" crossorigin="anonymous"></script>
+</head>
+<body>
+   <div class="navbar">
+    
+       
+   <nav>
+    <img src="images\img.png" class="img">
+    
+     <ul class="nav-links">
+        <li> <a href="#">Home</a></li>
+        <li> <a href="#">Services</a></li>
+        <li> <a href="#">Company</a></li>
+        <li> <a href="#">Hire Developers</a></li>
+       <a href="#"><button class=btn>Contact Us</button></a>
+    </ul>
+    
+</nav> </div>
+
+<div class="content">
+          <h1 style="text-align:center">We're here to help you solve your biggest<br>business challenges</h1>
+        </div>
+<body><form>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+               <div class="section-title-2 text-center mb-30">
+                  
+                 <!--  <h2 class="title">How Can We Help You?</h2>
+                  <div class="bar bar1"></div> -->
+                  <!-- <p class="cont-subhed">We Provide Cost Effective Solutions to Your Business Problems.</p> -->
+               </div>
+            </div>
+         </div>
+    <h1 style="text-align:center">We Are All Ears For Your Product & Service Needs</h1>
+    <div class="input-group">
+        <input type="text" id="name" required>
+        <label for="name">Name</label>
+    </div>
+    <div class="input-group">
+        <input type="number" id="number" required>
+        <label for="number">Phone Number</label>
+    </div>
+    <div class="input-group">
+        <input type="email" id="email" required>
+        <label for="email">Email</label>
+    </div>
+    <div class="input-group">
+        <textarea id="message" rows="8"></textarea>
+        <label for="message">Your Message</label>
+    </div>
+   <div class="form-submit-btn">
+    <input type="GET FREE CONSULTATION" value="GET FREE CONSULTATION" >
+   </div> </div> 
+</form></body>
+<div class="hero">
+
+    <div class="row justify-content-center mt-50">
+        <div class="col-sm-6">
+          <h4 class="pb-20">Sales Contact :</h4>
+           <div class="contact-info color-3 mb-40">
+          <h5>Sales:</h5>
+             <p class="mindis">Need immediate sales assistance? Call us, email us, chat with us, or book a meeting with our team. We can help your business grow. Contact RailsFactory Sales. </p>
+             <p class="pb-10"><i class="fa-sharp fa-solid fa-phone-flip"></i>India : <a href="tel:+91 7397747122">+91 7397747122</a></p>
+             <p class="pb-10"><i class="fa-sharp fa-solid fa-phone-flip"></i> US/Canada : <a href="tel:+1 5068972921">+1 5068972921</a></p>
+             <p class="pb-10"><i class="fa-sharp fa-solid fa-phone-flip"></i> Australia : <a href="tel:+61 411333390">+61 411333390
+    </a></p>
+             <p><i class="fa-solid fa-envelope"></i> <a href="mailto:sales@railsfactory.com">sales@railsfactory.com</a> </p>
+          </div>
+         <!--  <div class="contact-info color-1 ">
+            <h5>HR Career:</h5>
+             <p class="mindis">Welcome to RailsFactory. Be part of our culture. Get great job benefits, learn from the best in the industry and explore exciting job opportunities for who you really are! </p>
+             <p class="pb-10"><i class="fas fa-envelope phclr-ic"></i> jobs@railsfactory.com </p>
+             <p><i class="fas fa-phone phclr-ic"></i> 08025212120</p>
+          </div> -->
+          
+    
+    
+        </div>
+    </div>
+    <footer id="footer" class="ruby-foot">
+        <!-- <div class="ruby-tech"><img src="assets/images/footer-ruby-main.png" alt=""></div> -->
+          <div id="footer-widgets" class="container style-1 mb-50">
+              <div class="row">
+                  <div class="col-md-4">
+                      <div class="widget widget_text">
+                          <h2 class="widget-title"><span>About Us</span></h2>
+                          <div class="textwidget">
+                              <img src="img.png" alt="Ruby on Rails Development Company" class="margin-top-5 margin-bottom-25">
+                              <p>We started off as a small team in 2006 to build amazing products and solutions for companies that need them. Over time, we've built over 500 applications, some of which even got featured on Techcrunch.</p>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-md-2">
+                      <div class="widget widget_links">
+                          <h2 class="widget-title"><span>Quick Links</span></h2>
+                          <ul class="wprt-links clearfix col5">
+                              <li class="style-2"><a href="/">Home</a></li>
+                              <li class="style-2"><a href="about-us">About Us</a></li>
+                             <!--  <li class="style-2"><a href="careers-at-railsfactory">Careers</a></li> -->
+                              <li class="style-2"><a href="case-studies">Case Studies</a></li>
+                             <!--  <li class="style-2"><a href="faq">FAQ</a></li> -->
+                              <li class="style-2"><a href="blog">Blog</a></li>
+                              <li class="style-2 "><a href="contact-us">Contact Us</a></li>
+                              
+                          </ul>
+                      </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="widget widget_links">
+                        <h2 class="widget-title"><span>Hire Developers</span></h2>
+                       
+                              <ul class="wprt-links clearfix col5">
+                                <li class="style-2"><a href="hire-ruby-on-rails-developer">Ruby On Rails  </a></li>
+                                <li class="style-2"><a href="hire-react-native-developer">React Native </a></li>
+                                <li class="style-2"><a href="hire-reactjs-developer">ReactJS </a></li>
+                                <li class="style-2"><a href="hire-vue-js-developer">Vue Js </a></li>
+                                <li class="style-2"><a href="node-js-development-services">NodeJS </a></li>
+                              </ul>
+                    </div>
+                 </div>
+                  <div class="col-md-4">
+                      <div class="widget widget_links">
+                          <h2 class="widget-title"><span>Services</span></h2>
+                          <ul class="wprt-links clearfix col5">
+                              <li class="style-2"><a href="web-development-company">Web Applications</a>
+                                 
+                              </li>
+                             <li class="style-2"><a href="mobile-app-design-company">Mobile Applications Development</a>
+                                  
+                              </li>
+                               <li class="style-2"><a href="devops-consulting-services">DevOps Consulting</a></li>
+                               <li class="style-2"><a href="code-review-services">Code Review and Security Audit</a></li>
+                               <li class="style-2"><a href="frontend-development-services">Front-End Development</a></li>
+                                <li class="style-2"><a href="software-testing-services">Software Testing</a></li>
+                          </ul>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div id="footer-widgets" class="robg">
+            <div class="container">
+               <div class="row">
+               
+                <div class="col-sm-8">
+                   <div class="widget widget_information">
+                   <ul class="style-2">
+                              
+                      <li class="phone clearfix">
+                          <span class="hl"><img src="assets/images/flag-ic2.png"></span>
+                          <a href="tel: +1 506-897-2921" class="text"> +1 506-897-2921</a>
+                      </li>
+                       <li class="address clearfix">
+                          <span class="hl"><img src="assets/images/flag-ic1.png"></span>
+                          <a href="tel:+1 506 897 2921" class="text">+1 506 897 2921</a>
+                      </li>
+                       <li class="email clearfix">
+                           <span class="hl"><img src="assets/images/flag-ic4.png"></span>
+                          <a href="tel:+91 994 003 3650" class="text">+91 994 003 3650</a>
+                      </li>
+                     
+                      <li class="email clearfix">
+                           <span class="hl"><img src="assets/images/flag-ic5.png"></span>
+                          <a href="tel:+61 411 333 390" class="text">+61 411 333 390</a>
+                      </li>
+                     
+                  </ul>
+                  </div>
+                </div>
+            
+                <div class="col-sm-4 text-right">
+                   <div class="widget widget_socials">
+                      <div class="socials">
+                          <a target="_blank" rel="nofollow" href="https://twitter.com/railsfactory"><i class="fab fa-twitter"></i></a>
+                          <a target="_blank" rel="nofollow" href="https://www.facebook.com/RailsFactory/"><i class="fab fa-facebook-f"></i></a>
+                          <a target="_blank" rel="nofollow" href="https://www.linkedin.com/company/railsfactory"><i class="fab fa-linkedin-in"></i></a>
+                          <a target="_blank" rel="nofollow" href="https://www.behance.net/railsfactory  "><i class="fab fa-behance"></i></a>
+                      </div>
+                    </div>    
+                </div>
+            </div>
+            </div>
+            </div>
+      </footer>
+</body>
+  

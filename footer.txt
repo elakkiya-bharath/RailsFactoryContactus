@@ -1,0 +1,123 @@
+ <footer id="footer" class="ruby-foot">
+        <!-- <div class="ruby-tech"><img src="assets/images/footer-ruby-main.png" alt=""></div> -->
+          <div id="footer-widgets" class="container style-1 mb-50">
+              <div class="row">
+                  <div class="col-md-4">
+                      <div class="widget widget_text">
+                          <h2 class="widget-title"><span>About Us</span></h2>
+                          <div class="textwidget">
+                              <img src="img.png" alt="" class="margin-top-5 margin-bottom-25">
+                              <p>We started off as a small team in 2006 to build amazing products and solutions for companies that need them. Over time, we've built over 500 applications, some of which even got featured on Techcrunch.</p>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-md-2">
+                      <div class="widget widget_links">
+                          <h2 class="widget-title"><span>Quick Links</span></h2>
+                          <ul class="wprt-links clearfix col5">
+                              <li class="style-2"><a href="/">Home</a></li>
+                              <li class="style-2"><a href="about-us">About Us</a></li>
+                             <!--  <li class="style-2"><a href="careers-at-railsfactory">Careers</a></li> -->
+                              <li class="style-2"><a href="case-studies">Case Studies</a></li>
+                             <!--  <li class="style-2"><a href="faq">FAQ</a></li> -->
+                              <li class="style-2"><a href="blog">Blog</a></li>
+                              <li class="style-2 "><a href="contact-us">Contact Us</a></li>
+                              
+                          </ul>
+                      </div>
+                  </div>
+                  <div class="col-md-2">
+                     <div class="widget widget_links">
+                        <h2 class="widget-title"><span>Hire Developers</span></h2>
+                       
+                              <ul class="wprt-links clearfix col5">
+                                <li class="style-2"><a href="#">Ruby On Rails  </a></li>
+                                <li class="style-2"><a href="#">React Native </a></li>
+                                <li class="style-2"><a href="#">ReactJS </a></li>
+                                <li class="style-2"><a href="#">Vue Js </a></li>
+                                <li class="style-2"><a href="#">NodeJS </a></li>
+                              </ul>
+                    </div>
+                 </div>
+                  <div class="col-md-4">
+                      <div class="widget widget_links">
+                          <h2 class="widget-title"><span>Services</span></h2>
+                          <ul class="wprt-links clearfix col5">
+                              <li class="style-2"><a href="web-development-company">Web Applications</a>
+                                 
+                              </li>
+                             <li class="style-2"><a href="mobile-app-design-company">Mobile Applications Development</a>
+                                  
+                              </li>
+                               <li class="style-2"><a href="devops-consulting-services">DevOps Consulting</a></li>
+                               <li class="style-2"><a href="code-review-services">Code Review and Security Audit</a></li>
+                               <li class="style-2"><a href="frontend-development-services">Front-End Development</a></li>
+                                <li class="style-2"><a href="software-testing-services">Software Testing</a></li>
+                          </ul>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div id="footer-widgets" class="robg">
+            <div class="container">
+               <div class="row">
+               
+                <div class="col-sm-8">
+                   <div class="widget widget_information">
+                   <ul class="style-2">
+                              
+                      <li class="phone clearfix">
+                          <span class="hl"><img src="Desktop/Newfolder/usa.png"></span>
+                          <a href="tel: +1 506-897-2921" class="text"> +1 506-897-2921</a>
+                      </li>
+                       <li class="address clearfix">
+                          <span class="hl"><img src="Desktop/Newfolder/punk.png"></span>
+                          <a href="tel:+1 506 897 2921" class="text">+1 506 897 2921</a>
+                      </li>
+                       <li class="email clearfix">
+                           <span class="hl"><img src="Desktop/Newfolder/india.png"></span>
+                          <a href="tel:+91 994 003 3650" class="text">+91 994 003 3650</a>
+                      </li>
+                     
+                      <li class="email clearfix">
+                           <span class="hl"><img src="Desktop/Newfolder/bus.jpg"></span>
+                          <a href="tel:+61 411 333 390" class="text">+61 411 333 390</a>
+                      </li>
+                     
+                  </ul>
+                  </div>
+                </div>
+            
+                <div class="col-sm-4 text-right">
+                   <div class="widget widget_socials">
+                      <div class="socials">
+                          <a target="_blank" rel="nofollow" href="https://twitter.com/railsfactory"><i class="fab fa-twitter"></i></a>
+                          <a target="_blank" rel="nofollow" href="https://www.facebook.com/RailsFactory/"><i class="fab fa-facebook-f"></i></a>
+                          <a target="_blank" rel="nofollow" href="https://www.linkedin.com/company/railsfactory"><i class="fab fa-linkedin-in"></i></a>
+                          <a target="_blank" rel="nofollow" href="https://www.behance.net/railsfactory  "><i class="fab fa-behance"></i></a>
+                      </div>
+                    </div>    
+                </div>
+            </div>
+            </div>
+            </div>
+            <div id="bottom" class="clearfix style-1">
+                <div id="bottom-bar-inner" class="container">
+                    <div class="row">
+                    
+                        <div class="col-sm-7">
+                            <div id="copyright" class="btmfoot-clr">
+                              <p>© 2006 - <script type="text/javascript">var year = new Date();document.write(year.getFullYear());</script>2023 Railsfactory - A Division of <a href="https://sedintechnologies.com/">Sedin Technologies</a></p>
+                            </div><!-- /#copyright -->
+                        </div><!-- /.bottom-bar-content -->
+            
+                        <div class="col-sm-5 text-right">
+                            <ul class="bottom-nav">
+                               <li><a href="sitemap">Sitemap</a></li>
+                                <li><a href="privacy-policy">Privacy Policy</a></li>
+                            </ul>       
+                        </div><!-- /.bottom-bar-menu -->
+                    </div>
+                </div>
+            </div>
+      </footer>
